@@ -1,5 +1,4 @@
 All By order of distance from origin(roughly)  
-n for each visit to country  
 
 # List of places to visit
 
