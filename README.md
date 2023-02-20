@@ -14,27 +14,20 @@ Egypt
 Israel  
 Russia  
 India  
-Nepal  
 South Korea/North?  
-Taiwan  
 Vietnam  
 China  
 Canada  
 Brazil  
 New Zealand  
 Australia  
+Hong Kong
 
-# Revisit
-
-Italy  
-Moroko  
-America  
-Japan
 
 # Visited
 
 France 1  
-Japan 4  
+Japan 5  
 Africa  1  
 The Netherlands - Lived  
 Denmark - Lived  
@@ -45,3 +38,8 @@ Czech Republic 1
 Italy 1  
 Belgium 2  
 Germany - Lived  
+Taiwan  1 
+Nepal 1 
+Malaysia 1
+Thailand 2
+
